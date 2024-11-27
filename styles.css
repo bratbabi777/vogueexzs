@@ -1,0 +1,47 @@
+body 
+     {
+        color: rgb(0, 0, 0);
+        background: rgb(255, 223, 153);
+        margin: 0px;
+        header {
+            border-bottom: solid 2px rgb(209, 176, 99);
+            padding: 20px;
+            font-size: 32px;
+            color: rgb(0, 0, 0);
+        }
+    
+          
+          header {
+            border-bottom: solid 2px rgb(110, 22, 0);
+            padding: 20px;
+            font-size: 32px;
+            color: rgb(8, 3, 0);
+          }
+          
+          section {
+            background: rgb(255, 223, 153);
+            padding-bottom: 80px;
+            padding-top: 80px;
+            display: flex;
+            justify-content: center;
+          }
+          
+          .chamada-texto {
+            margin-right: 5%;
+          }
+          
+          h1 {
+            font-size: 40px;
+          }
+          
+          p {
+            font-size: 20px;
+          }
+    
+
+
+
+    }
+    
+    
+
